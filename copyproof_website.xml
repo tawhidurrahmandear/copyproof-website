@@ -1,5 +1,5 @@
 <updateservers>
     <server type="extension" name="copyproof_website">
-        https://raw.githubusercontent.com/tawhidurrahmandear/copyproof-website/refs/heads/main/v1.0/update.xml
+        https://github.com/tawhidurrahmandear/copyproof-website/releases/download/1.0/copyproof_website.zip
     </server>
 </updateservers>
